@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bussiness_card_reactjs/static/css/main.3d78db91.css",
+    "main.js": "/bussiness_card_reactjs/static/js/main.d5640abf.js",
+    "static/media/my-image.jpg": "/bussiness_card_reactjs/static/media/my-image.c8d4b13fe6857d34d3e8.jpg",
+    "index.html": "/bussiness_card_reactjs/index.html",
+    "main.3d78db91.css.map": "/bussiness_card_reactjs/static/css/main.3d78db91.css.map",
+    "main.d5640abf.js.map": "/bussiness_card_reactjs/static/js/main.d5640abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d78db91.css",
+    "static/js/main.d5640abf.js"
+  ]
+}
