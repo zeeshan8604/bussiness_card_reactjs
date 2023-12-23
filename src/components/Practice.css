@@ -1,0 +1,27 @@
+.head-item {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid #999999; /* Border color */
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.list {
+  display: flex;
+}
+.list > li {
+  list-style-type: none;
+  padding: 10px;
+}
+.main__content {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7f3f3;
+  /* color: #f7f3f3; */
+}
+.main__content > h1 {
+  margin-left: -50px;
+}

@@ -1,0 +1,77 @@
+/* .top__div {
+  display: flex;
+  flex-direction: column;
+} */
+.top__div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.my__img {
+  width: 100%;
+  height: 250px;
+}
+.btn {
+  /* width: max-content; */
+  /* width: 90px;
+  padding: 0.75rem 1.2rem;
+  border-radius: 0.4rem;
+  cursor: pointer; */
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px 15px;
+  margin: 0 10px;
+  border-radius: 5px;
+}
+.My__pro {
+  /* margin-left: 120px; */
+  color: orange;
+}
+.My__website {
+  text-decoration: none;
+  cursor: pointer;
+  /* margin-left: 140px; */
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.buttons > a {
+  text-decoration: none;
+}
+.linkedin {
+  background-color: #297fe5;
+  color: white;
+  font-weight: 500;
+}
+.email {
+  border: 1px solid black;
+}
+.logo {
+  font-size: 22px;
+  margin-right: 5px;
+}
+.About {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightgrey;
+  align-items: center;
+  height: 40px;
+  padding: 5px;
+}
+.footer__logo {
+  font-size: 30px;
+  margin-top: 5px;
+}
